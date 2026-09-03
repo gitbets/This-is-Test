@@ -2,13 +2,17 @@
 一、订阅流量服务
 
 1.打开下面链接，邮箱注册登录。
+
 （如果遇到无法访问，请切换成手机流量网络，推荐用Chrome、Edge浏览器）
+
 https://xn--ncloud-o43k.com/#/register?code=NGLkDwW0 
+
 2.点击左上角菜单的图标，选择购买订阅，订阅套餐。
 
 二、手机使用（Apple）
 
 Apple手机使用需要已购买Shadowrocket的美区账号
+
 1.1，切换美区ID
 
 1.打开 App Store点击右上角头像
